@@ -15,7 +15,3 @@ let newPerson = {
 }
 
 console.log(newPerson)
-
-let input = "Saya suka makan"
-const result = input.split(" ")
-console.log(result[0])
